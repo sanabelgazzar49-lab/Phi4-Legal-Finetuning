@@ -18,4 +18,3 @@ Merging: LoRA weights were merged with the base model for a standalone architect
 Quantization: Converted to GGUF (4-bit) to run efficiently on standard consumer hardware.
 Local Execution: Fully operational via Ollama using a custom Modelfile for consistent prompt templating.
 💻 Tech StackFrameworks: Hugging Face, Unsloth, PEFT.Infrastructure: Google Colab Pro (A100 GPU).Deployment: Ollama, GGUF.
-Model Weightshttps:You can download the fine-tuned LoRA weights from//drive.google.com/drive/folders/1zdw902dAZfIMbfUt9zGPFs8LhzC3HP-g?usp=sharing..
