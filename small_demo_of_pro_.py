@@ -464,7 +464,7 @@ print(f"   Files : {os.listdir('/content/legal_lorayes*')}")
 # tokenizer.save_pretrained("/content/drive/My Drive/legal_lora")
 # print("✅ Also saved to Google Drive")
 
-!pip install groq
+
 
 from groq import Groq
 import json, re, time
