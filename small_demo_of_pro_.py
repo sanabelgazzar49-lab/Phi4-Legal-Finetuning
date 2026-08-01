@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1raqO7VvhQtfvvsOBpMhsfMlkDidPdFmS
 """
 
-!nvidia-smi --query-gpu=name,memory.total,memory.free --format=csv,noheader
+
 
 import torch
 print(f"CUDA available : {torch.cuda.is_available()}")
